@@ -1,1 +1,3 @@
-# HW001KR
+![alt text](assets/БлокСхемА.png)
+
+
