@@ -1,0 +1,15 @@
+C:\Users\roman.khodan\Desktop\GeekBrains2023 Ника\ДЗ\HW001KR\HW001KR\bin\Debug\net6.0\HW001KR.exe
+C:\Users\roman.khodan\Desktop\GeekBrains2023 Ника\ДЗ\HW001KR\HW001KR\bin\Debug\net6.0\HW001KR.deps.json
+C:\Users\roman.khodan\Desktop\GeekBrains2023 Ника\ДЗ\HW001KR\HW001KR\bin\Debug\net6.0\HW001KR.runtimeconfig.json
+C:\Users\roman.khodan\Desktop\GeekBrains2023 Ника\ДЗ\HW001KR\HW001KR\bin\Debug\net6.0\HW001KR.dll
+C:\Users\roman.khodan\Desktop\GeekBrains2023 Ника\ДЗ\HW001KR\HW001KR\bin\Debug\net6.0\HW001KR.pdb
+C:\Users\roman.khodan\Desktop\GeekBrains2023 Ника\ДЗ\HW001KR\HW001KR\obj\Debug\net6.0\HW001KR.csproj.AssemblyReference.cache
+C:\Users\roman.khodan\Desktop\GeekBrains2023 Ника\ДЗ\HW001KR\HW001KR\obj\Debug\net6.0\HW001KR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roman.khodan\Desktop\GeekBrains2023 Ника\ДЗ\HW001KR\HW001KR\obj\Debug\net6.0\HW001KR.AssemblyInfoInputs.cache
+C:\Users\roman.khodan\Desktop\GeekBrains2023 Ника\ДЗ\HW001KR\HW001KR\obj\Debug\net6.0\HW001KR.AssemblyInfo.cs
+C:\Users\roman.khodan\Desktop\GeekBrains2023 Ника\ДЗ\HW001KR\HW001KR\obj\Debug\net6.0\HW001KR.csproj.CoreCompileInputs.cache
+C:\Users\roman.khodan\Desktop\GeekBrains2023 Ника\ДЗ\HW001KR\HW001KR\obj\Debug\net6.0\HW001KR.dll
+C:\Users\roman.khodan\Desktop\GeekBrains2023 Ника\ДЗ\HW001KR\HW001KR\obj\Debug\net6.0\refint\HW001KR.dll
+C:\Users\roman.khodan\Desktop\GeekBrains2023 Ника\ДЗ\HW001KR\HW001KR\obj\Debug\net6.0\HW001KR.pdb
+C:\Users\roman.khodan\Desktop\GeekBrains2023 Ника\ДЗ\HW001KR\HW001KR\obj\Debug\net6.0\HW001KR.genruntimeconfig.cache
+C:\Users\roman.khodan\Desktop\GeekBrains2023 Ника\ДЗ\HW001KR\HW001KR\obj\Debug\net6.0\ref\HW001KR.dll

@@ -1,3 +1,3 @@
-![alt text](assets/БлокСхемА.png)
+![alt text](БлокСхемА.png)
 
 
